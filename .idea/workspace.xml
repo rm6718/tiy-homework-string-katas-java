@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5417cc15-34e9-4e7a-bbf8-c23e5fb41aa3" name="Default" comment="" />
+    <list default="true" id="5417cc15-34e9-4e7a-bbf8-c23e5fb41aa3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Kata.java" afterPath="$PROJECT_DIR$/src/main/java/Kata.java" />
+    </list>
     <ignored path="tiy-homework-string-katas-java.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,11 +27,11 @@
       <file leaf-file-name="Kata.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            <state relative-caret-position="375">
+              <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
               <folding>
-                <element signature="e#1327#1328#0" expanded="true" />
-                <element signature="e#1392#1393#0" expanded="true" />
+                <element signature="e#1714#1715#0" expanded="true" />
+                <element signature="e#1779#1780#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,7 +76,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="638" />
+    <option name="x" value="508" />
     <option name="y" value="23" />
     <option name="width" value="932" />
     <option name="height" value="873" />
@@ -603,15 +605,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476731936902</updated>
-      <workItem from="1476731939846" duration="16636000" />
+      <workItem from="1476731939846" duration="23182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16636000" />
+    <option name="totallyTimeSpent" value="23182000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="638" y="23" width="932" height="873" extended-state="0" />
+    <frame x="508" y="23" width="932" height="873" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -673,11 +675,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        <state relative-caret-position="375">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
           <folding>
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1714#1715#0" expanded="true" />
+            <element signature="e#1779#1780#0" expanded="true" />
           </folding>
         </state>
       </provider>
