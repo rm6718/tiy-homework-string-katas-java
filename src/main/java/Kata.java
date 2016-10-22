@@ -139,7 +139,6 @@ public class Kata {
 
 
 
-    // not working yet
 
     public static void startOz(String data) {
         System.out.print("\nKata.startOz(\"" + data + "\") -> ");
@@ -147,9 +146,18 @@ public class Kata {
 
         int sO = data.length();
 
-        if (sO >= 1 && data.charAt(0) == "o") {
-
+        if (data.startsWith("oz")){
+            System.out.print(data.substring(0, 2));
         }
+        else if (data.startsWith("o")) {
+            System.out.print(data.charAt(0));
+        }
+        else if (data.charAt(1) == 'z'){
+            System.out.print(data.charAt(1));
+        } else {
+            System.out.print(data.substring(0, 2));
+        }
+        System.out.print("\"");
 
     }
 
